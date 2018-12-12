@@ -14,6 +14,5 @@
     "noEmit": true,
     "jsx": "preserve"
   },
-  "include": ["src"],
-  "exclude": ["**/*.json"]
+  "include": ["src"]
 }

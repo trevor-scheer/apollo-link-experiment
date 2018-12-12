@@ -1,0 +1,220 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+Object {
+  "ROOT_QUERY": Object {
+    "allBooks": Array [
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.0",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.1",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.2",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.3",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.4",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.5",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.6",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.7",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.8",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.9",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.10",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.11",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.12",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.13",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.14",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.15",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.16",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.17",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.18",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.19",
+        "type": "id",
+        "typename": "Book",
+      },
+      Object {
+        "generated": true,
+        "id": "ROOT_QUERY.allBooks.20",
+        "type": "id",
+        "typename": "Book",
+      },
+    ],
+  },
+  "ROOT_QUERY.allBooks.0": Object {
+    "__typename": "Book",
+    "title": "Functional JavaScript: Introducing Functional Programming with Underscore.js",
+  },
+  "ROOT_QUERY.allBooks.1": Object {
+    "__typename": "Book",
+    "title": "Maintainable JavaScript - Writing Readable Code",
+  },
+  "ROOT_QUERY.allBooks.10": Object {
+    "__typename": "Book",
+    "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+  },
+  "ROOT_QUERY.allBooks.11": Object {
+    "__typename": "Book",
+    "title": "Pro JavaScript Techniques",
+  },
+  "ROOT_QUERY.allBooks.12": Object {
+    "__typename": "Book",
+    "title": "High Performance Web Sites: Essential Knowledge for Front-End Engineers",
+  },
+  "ROOT_QUERY.allBooks.13": Object {
+    "__typename": "Book",
+    "title": "Even Faster Web Sites",
+  },
+  "ROOT_QUERY.allBooks.14": Object {
+    "__typename": "Book",
+    "title": "Learning JavaScript Design Patterns",
+  },
+  "ROOT_QUERY.allBooks.15": Object {
+    "__typename": "Book",
+    "title": "jQuery in Action",
+  },
+  "ROOT_QUERY.allBooks.16": Object {
+    "__typename": "Book",
+    "title": "jQuery Pocket Reference",
+  },
+  "ROOT_QUERY.allBooks.17": Object {
+    "__typename": "Book",
+    "title": "Book of Speed [Online]",
+  },
+  "ROOT_QUERY.allBooks.18": Object {
+    "__typename": "Book",
+    "title": "JavaScript Allonge [Ebook]",
+  },
+  "ROOT_QUERY.allBooks.19": Object {
+    "__typename": "Book",
+    "title": "JavaScript for PHP Developers",
+  },
+  "ROOT_QUERY.allBooks.2": Object {
+    "__typename": "Book",
+    "title": "Professional JavaScript for Web Developers",
+  },
+  "ROOT_QUERY.allBooks.20": Object {
+    "__typename": "Book",
+    "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
+  },
+  "ROOT_QUERY.allBooks.3": Object {
+    "__typename": "Book",
+    "title": "JavaScript Patterns",
+  },
+  "ROOT_QUERY.allBooks.4": Object {
+    "__typename": "Book",
+    "title": "JavaScript: The Definitive Guide",
+  },
+  "ROOT_QUERY.allBooks.5": Object {
+    "__typename": "Book",
+    "title": "Secrets of the JavaScript Ninja",
+  },
+  "ROOT_QUERY.allBooks.6": Object {
+    "__typename": "Book",
+    "title": "Object-Oriented Javascript",
+  },
+  "ROOT_QUERY.allBooks.7": Object {
+    "__typename": "Book",
+    "title": "JavaScript: The Good Parts",
+  },
+  "ROOT_QUERY.allBooks.8": Object {
+    "__typename": "Book",
+    "title": "JavaScript & jQuery: The Missing Manual",
+  },
+  "ROOT_QUERY.allBooks.9": Object {
+    "__typename": "Book",
+    "title": "High Performance JavaScript",
+  },
+}
+`;
